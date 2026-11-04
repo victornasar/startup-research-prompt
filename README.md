@@ -30,3 +30,7 @@ candidates), Phase 2 narrow (Steps 4–5 competitive research on the top 4–5 �
 the stage most likely to get shortchanged), Phase 3 decide (Steps 6–10 +
 final output). If your runtime supports multi-turn tool use, let it actually
 run as three passes rather than compressing everything into one generation.
+
+## License
+
+[MIT](LICENSE)
